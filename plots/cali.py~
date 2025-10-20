@@ -1,0 +1,4 @@
+from astropy.io import fits
+import numpy as np
+
+rcw120-co43-m0-6arcmin.fits
